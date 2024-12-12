@@ -1,1 +1,1 @@
-Three projects for my analysis and synthesis of algorithms module.
+Projects for my analysis and synthesis of algorithms module.
