@@ -1,1 +1,1 @@
-Projects for my analysis and synthesis of algorithms module.
+Projects for my Analysis and Synthesis of Algorithms class.
